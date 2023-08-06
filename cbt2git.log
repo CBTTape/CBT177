@@ -1,0 +1,9 @@
+2023-08-06 02:03:37.247450 - Initialized conversion of CBT177
+2023-08-06 02:03:37.327625 - Received CBT.V505.FILE177.PDS from FILE177.XMI 
+2023-08-06 02:03:37.329688 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:03:37.330834 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/$$NOTE1
+2023-08-06 02:03:37.332139 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/$PDSLOAD
+2023-08-06 02:03:37.333236 - Found @FILE177.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/@FILE177
+2023-08-06 02:03:37.334234 - Found MNEMAC.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/MNEMAC
+2023-08-06 02:03:37.335305 - Found MNEMACO.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/MNEMACO
+2023-08-06 02:03:37.336205 - Found OPCODES.txt (text/plain) in CBT.V505.FILE177.PDS, moved to PDS/OPCODES
